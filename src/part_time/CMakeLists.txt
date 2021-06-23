@@ -1,2 +1,5 @@
 #add_executable(macro_test macro_test.c)
 add_executable(ifelse ifelse.cpp)
+add_executable(stringdemo stringdemo.cc)
+add_executable(delegation delegation.cc)
+add_executable(templatedemo templatedemo.cc)
